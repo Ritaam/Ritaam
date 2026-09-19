@@ -1,8 +1,5 @@
-Reorder Sections
-Preview
-Markdown
-Copy
-Hi 👋 My name is Ritam !!
+
+Hi  My name is Ritam !!
 =========================
 
 Competitive Programmer - Aspiring Software Engineer
@@ -11,7 +8,7 @@ Competitive Programmer - Aspiring Software Engineer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://ritams-world.netlify.app)
 * ✉️  You can contact me at [ritamjana6969@gmail.com](mailto:ritamjana6969@gmail.com)
-* 🧠  I'm currently learning Machine Learning, Deep Learning and Backend Engineering
+* 🧠  I'm currently exploring  Machine Learning, Deep Learning and Backend Engineering
 * 💬  Ask me about  CodeChef, CodeForces, DSA, Mathematics
 
 <p align="left">
