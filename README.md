@@ -1,217 +1,167 @@
-<h1 align="center">Hi 👋, I'm Ritam Jana</h1>
-
-<h3 align="center">
-  Software Engineer • Competitive Programmer • Machine Learning Enthusiast
-</h3>
+👋 Hi, I'm Ritam
 
 <p align="center">
-  <i>Turning ideas into code and building technology that creates an impact.</i>
+  <b>Competitive Programmer | Software Engineer | ML & Backend Enthusiast</b>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ritam">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/ritaam_16">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/ritaam">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
+  <a href="http://ritams-world.netlify.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ritam-jana-b90382310/">LinkedIn</a> •
+  <a href="https://github.com/Ritaam">GitHub</a> •
+  <a href="https://codeforces.com/">Codeforces</a> •
+  <a href="https://www.codechef.com/">CodeChef</a>
 </p>
 
----
+👨‍💻 About Me
 
-## 🚀 About Me
+I'm a Computer Science undergraduate passionate about competitive programming,
+software engineering, and applied AI.
 
-```cpp
-class RitamJana {
-public:
-    string role = "Software Engineering Student";
-    string location = "India 🇮🇳";
+I enjoy solving algorithmic problems and building practical systems that combine
+software engineering, machine learning, and computer vision.
 
-    vector<string> interests = {
-        "Competitive Programming",
-        "Data Structures & Algorithms",
-        "Machine Learning",
-        "Software Development",
-        "System Design"
-    };
+💻 Competitive Programmer focused on DSA, algorithms & problem solving
 
-    string currentlyLearning = "Machine Learning & Advanced DSA";
+🤖 Building projects with Machine Learning, Computer Vision & Generative AI
 
-    string goal = "Become a Software Engineer at Google 🚀";
-};
-```
+⚙️ Developing backend systems with FastAPI, Node.js, PostgreSQL & MongoDB
 
-* 🔭 Currently working on **Machine Learning Projects**
-* 🌱 Exploring **Deep Learning, AI and System Design**
-* 💻 Passionate about **DSA & Competitive Programming**
-* ☁️ Interested in **Cloud Computing and Scalable Systems**
-* 🎯 Goal: **Build impactful software and become a top Software Engineer**
-* ⚡ Fun fact: **I enjoy turning complex problems into elegant code**
+🏆 4★ @ CodeChef | Specialist @ Codeforces
 
----
+🚀 Currently focused on DSA, Backend Engineering, ML & Computer Vision
 
-# 🌐 Connect With Me
+🌐 Portfolio: ritams-world.netlify.app
 
-<p align="center">
+✉️ Email: ritamjana6969@gmail.com
 
-<a href="https://www.linkedin.com/in/ritam-jana-b90382310/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
-</a>
+🏆 Achievements
 
-<a href="https://instagram.com/ritaam_16" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" />
-</a>
+⭐ Specialist — Codeforces
 
-<a href="https://www.codechef.com/users/top_coder_16" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="40" width="50" />
-</a>
+⭐⭐⭐⭐ 4★ — CodeChef
 
-<a href="https://codeforces.com/profile/ritamj_16" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" width="50" />
-</a>
+🏅 TCS CodeVita — Global Rank 4694
 
-</p>
+🥇 1st Place — College Competitive Programming Competition
 
----
+🏆 ICPC CodeFest 2026 — Prelims Rank 4080
 
-# 💻 Tech Stack
+🚀 Featured Projects
 
-### 👨‍💻 Programming Languages
+🛡️ AI-Based Border Surveillance
 
-<p align="center">
+AI-powered video analytics platform for border security using computer vision.
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+Tech: Python • YOLO • OpenCV • FastAPI • ByteTrack
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+Features:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+Human detection & tracking
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+Vehicle detection & classification
 
-</p>
+Face detection
 
-### 🌐 Development
+Automatic Number Plate Recognition (ANPR)
 
-<p align="center">
+Virtual fence intrusion detection
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+Night movement detection
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50"/>
+Thermal detection
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+Real-time alert and event pipeline
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
+🤖 INGRES AI Assistant
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+AI assistant for India's Ground Water Resource Estimation System.
 
-</p>
+Tech: Python • RAG • LLM • FastAPI • AI/ML
 
-### 🤖 Machine Learning & Data Science
+Focus:
 
-<p align="center">
+Groundwater resource information
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+Natural-language interaction
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+Multilingual accessibility
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+AI-assisted information retrieval
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
+💬 CHIT-CHAT
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" height="50"/>
+Real-time communication platform built using the MERN stack and Socket.IO.
 
-</p>
+Tech: React • Node.js • Express • MongoDB • Socket.IO
 
-### ☁️ Cloud & Tools
+Focus:
 
-<p align="center">
+Real-time messaging
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" height="50"/>
+Full-stack architecture
 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" height="50"/>
+REST APIs
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
+Real-time communication
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50"/>
+🧠 Technical Skills
 
-</p>
+Languages
 
----
+C++ Python Java JavaScript TypeScript
 
-# 📊 GitHub Statistics
+DSA & Computer Science
 
-<p align="center">
+Data Structures Algorithms OOP DBMS Operating Systems Computer Networks
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ritaam&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&bg_color=0D1117"/>
+Backend
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritaam&layout=compact&hide_border=true&title_color=58A6FF&text_color=FFFFFF&bg_color=0D1117"/>
+Node.js Express.js FastAPI REST APIs PostgreSQL MongoDB MySQL
 
-</p>
+AI / Machine Learning
 
----
+Machine Learning Deep Learning Computer Vision PyTorch TensorFlow OpenCV Hugging Face Generative AI
 
-# 🔥 GitHub Streak
+Cloud & DevOps
+
+AWS Google Cloud Docker Kubernetes Linux Git
+
+Frontend
+
+React Next.js HTML CSS JavaScript
+
+💻 Competitive Programming
+
+I enjoy solving algorithmic problems and continuously improving my problem-solving skills.
+
+🟢 Codeforces — Specialist
+
+⭐ CodeChef — 4 Star
+
+🧩 Focus areas: DSA, Dynamic Programming, Graphs, Trees, Binary Search & Competitive Programming
+
+🔥 Regularly practicing problems on competitive programming platforms
+
+📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ritaam&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ritaam&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-# 📈 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-DSA%20Enthusiast-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://codeforces.com/profile/ritamj16">
-<img src="https://img.shields.io/badge/Codeforces-Competitive%20Programmer-blue?style=for-the-badge&logo=codeforces"/>
-</a>
-
-<a href="https://www.codechef.com/users/top_coder_16">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-brown?style=for-the-badge&logo=codechef"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-⭐ "Code. Learn. Build. Repeat." ⭐
-</h3>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ritaam&label=Profile%20Views&color=58A6FF&style=flat"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ritaam&show_icons=true&hide_border=true" alt="Ritam's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritaam&hide_border=true" alt="Ritam's GitHub Streak" />
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritaam&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Ritaam">GitHub</a> •
+  <a href="https://www.linkedin.com/in/ritam-jana-b90382310/">LinkedIn</a> •
+  <a href="https://www.x.com/ritam_79">X</a> •
+  <a href="http://ritams-world.netlify.app">Portfolio</a>
+</p>
+
+<p align="center">
+  <i>Code. Build. Solve. Repeat.</i>
 </p>
